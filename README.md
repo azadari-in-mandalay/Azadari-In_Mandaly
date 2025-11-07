@@ -1,2 +1,2 @@
 # Azadari-In_Mandaly
-သျှီအာ ဘာသာဝင် ညီအစ်ကို မောင်နှမအတွက် ရည်ရွယ်ထားပါသည်။
+Official website for Azadari In Mandalay
